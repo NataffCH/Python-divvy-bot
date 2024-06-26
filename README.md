@@ -1,7 +1,3 @@
-<div align="center">
-  <img src=https://github.com/noahtheprogrammer/divvybot/assets/81941019/c10a3e75-f264-493f-8646-457cdb738478 alt="divvybot_logo">
-</div>
-
 ### Introduction
 Divvybot is a Python-based, open-source Discord bot that I created as a side project for the Divvy.bet Discord server. This bot has the ability to check the project's market details, retrieve estimated staking revenue and display the balance of the house in real time using Alchemy's API service. This bot has the ability to be customized for other web3 project servers as well.
 
